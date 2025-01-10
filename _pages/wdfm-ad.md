@@ -43,6 +43,7 @@ The workshop will cover a wide range of topics, including but not limited to:
   {% include people_horizontal.liquid name="Xu Cao" affiliation="UIUC" url="https://www.irohxucao.com/" img="assets/img/headshots/linkedin-company-logo-xu_cao.jpg" %}
   {% include people_horizontal.liquid name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io" img="assets/img/headshots/linkedin-company-logo-wenqian.jpeg" %}
   {% include people_horizontal.liquid name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="assets/img/headshots/linkedin-company-logo-can_cui.jpg" %}
+  {% include people_horizontal.liquid name="Shuo Xing" affiliation="Texas A&M University" url="https://shuoxing98.github.io/" img="assets/img/headshots/shuo_xing.jpg" %}
   {% include people_horizontal.liquid name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="assets/img/headshots/linkedin-company-logo-zhengzhong.jpeg"%}
   {% include people_horizontal.liquid name="Abhirup Mallik" affiliation="Bosch AI" url="https://scholar.google.co.in/citations?user=3bMs6-0AAAAJ&hl=en" img="assets/img/headshots/mallik.jpeg" %}
   {% include people_horizontal.liquid name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="assets/img/headshots/linkedin-company-logo-ziran.jpg" %}
