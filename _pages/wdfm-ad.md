@@ -41,7 +41,7 @@ The workshop will cover a wide range of topics, including but not limited to:
           {% include people.html name="Benjamin Sapp" affiliation="Waymo" url="https://bensapp.github.io/" img="assets/img/headshots/ben_sapp.jpeg" %}
       </div>
       <div class="col-sm-4">
-          {% include people.html name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.webp" %}
+          {% include people.html name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.jpeg" %}
       </div>
       <div class="col-sm-4">
           {% include people.html name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
