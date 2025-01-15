@@ -34,6 +34,23 @@ The workshop will cover a wide range of topics, including but not limited to:
 - Other Applications of Language or Vision Models in Autonomous Driving  
 - Surveys and Prospective Papers for Autonomous Driving 
 
+# Keynote Speakers
+<div class="container">
+<div class="row projects pt-1 pb-1">
+      <div class="col-sm-4">
+          {% include people.html name="Benjamin Sapp" affiliation="Waymo" url="https://bensapp.github.io/" img="assets/img/headshots/ben_sapp.jpeg" %}
+      </div>
+      <div class="col-sm-4">
+          {% include people.html name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.webp" %}
+      </div>
+      <div class="col-sm-4">
+          {% include people.html name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
+      </div>
+</div>
+</div>
+<br><br>
+
+
 # Organizers
 
 <div class="container">
