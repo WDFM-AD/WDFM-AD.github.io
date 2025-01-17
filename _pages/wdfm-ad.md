@@ -33,26 +33,24 @@ The workshop will cover a wide range of topics, including but not limited to:
 - Trustworthy Machine Learning for Autonomous Driving   
 - Other Applications of Language or Vision Models in Autonomous Driving  
 - Surveys and Prospective Papers for Autonomous Driving 
+<br><br>
+
 
 # Keynote Speakers
+<br>
 <div class="container">
-<div class="row projects pt-1 pb-1">
-      <div class="col-sm-4">
-          {% include people.html name="Benjamin Sapp" affiliation="Waymo" url="https://bensapp.github.io/" img="assets/img/headshots/ben_sapp.jpeg" %}
-      </div>
-      <div class="col-sm-4">
-          {% include people.html name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.jpeg" %}
-      </div>
-      <div class="col-sm-4">
-          {% include people.html name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
-      </div>
+<div class="row row-cols-3">
+  {% include people.liquid name="Benjamin Sapp" affiliation="Waymo" url="https://www.linkedin.com/in/benjamin-sapp-b335216/" img="assets/img/headshots/ben_sapp.jpeg" %}
+  {% include people.liquid name="Gianluca Corrado" affiliation="Wayve" url="https://www.linkedin.com/in/gianluca-corrado-617a6167/" img="assets/img/headshots/Gianluca-Corrado-552.jpg" %}
+  {% include people.liquid name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
+  {% include people.liquid name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.jpeg" %}
+  {% include people.liquid name="Liu Ren" affiliation="Bosch Center for Artificial Intelligence" url="https://www.liu-ren.com/" img="assets/img/headshots/Liu_Ren.jpeg" %}
 </div>
 </div>
 <br><br>
 
-
 # Organizers
-
+<br>
 <div class="container">
 <div class="row row-cols-2">
   {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Bosch AI" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
