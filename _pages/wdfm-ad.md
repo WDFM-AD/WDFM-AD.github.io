@@ -40,11 +40,11 @@ The workshop will cover a wide range of topics, including but not limited to:
 <br>
 <div class="container">
 <div class="row row-cols-3">
-  {% include people.liquid name="Benjamin Sapp" affiliation="Waymo" url="https://www.linkedin.com/in/benjamin-sapp-b335216/" img="assets/img/headshots/ben_sapp.jpeg" %}
-  {% include people.liquid name="Gianluca Corrado" affiliation="Wayve" url="https://www.linkedin.com/in/gianluca-corrado-617a6167/" img="assets/img/headshots/Gianluca-Corrado-552.jpg" %}
-  {% include people.liquid name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
   {% include people.liquid name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.jpeg" %}
   {% include people.liquid name="Liu Ren" affiliation="Bosch Center for Artificial Intelligence" url="https://www.liu-ren.com/" img="assets/img/headshots/Liu_Ren.jpeg" %}
+  {% include people.liquid name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
+  {% include people.liquid name="Benjamin Sapp" affiliation="Waymo" url="https://www.linkedin.com/in/benjamin-sapp-b335216/" img="assets/img/headshots/ben_sapp.jpeg" %}
+  {% include people.liquid name="Gianluca Corrado" affiliation="Wayve" url="https://www.linkedin.com/in/gianluca-corrado-617a6167/" img="assets/img/headshots/Gianluca-Corrado-552.jpg" %}
 </div>
 </div>
 <br><br>
