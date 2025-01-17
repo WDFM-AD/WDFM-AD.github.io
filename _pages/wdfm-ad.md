@@ -13,7 +13,8 @@ social: false # includes social icons at the bottom of the page
   <header class="post-header">
     <h1 class="post-title">
       CVPR 2025 Workshop on<br>
-      <span class="font-weight-bold">Distillation of Foundation Models for Autonomous Driving</span>{{ site.title }}
+      <span class="font-weight-bold">Distillation of Foundation Models for Autonomous Driving</span>
+      <!-- {{ site.title }} -->
     </h1>
     <p class="desc"><b>{{ page.subtitle }}</b></p>
   </header>

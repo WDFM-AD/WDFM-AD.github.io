@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-nav: false
+nav: true
 nav_order: 2
 ---
 
@@ -11,70 +11,99 @@ nav_order: 2
   table {
     width: 100%;
     border-collapse: collapse;
-    margin: 20px 0;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
   }
+
+  thead {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+  }
+
   th, td {
     border: 1px solid #ddd;
     padding: 8px;
-    text-align: left;
+    text-align: center;
   }
-  th {
-    background-color: #f2f2f2;
-    font-size: 18px;
-  }
-  tr:nth-child(even) {
+
+  tbody tr:nth-child(even) {
     background-color: #f9f9f9;
   }
-  tr:hover {
+
+  tbody tr:nth-child(odd) {
+    background-color: #fff;
+  }
+
+  tbody tr:hover {
     background-color: #f1f1f1;
   }
+
   .time {
-    width: 15%;
     font-weight: bold;
+    color: #333;
   }
+
   .event {
-    width: 85%;
+    color: #555;
+  }
+
+  .highlight-green {
+    background-color: #d9f8c4;
+  }
+
+  .highlight-red {
+    background-color: #fce8e6;
   }
 </style>
-  <table>
-    <thead>
-      <tr>
-        <th>Time</th>
-        <th>Event</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="time">08:00 - 08:10</td>
-        <td class="event">Opening Remarks</td>
-      </tr>
-      <tr style="background-color: #d9f8c4;">
-        <td class="time">08:10 - 08:50</td>
-        <td class="event">Keynote 1</td>
-      </tr>
-      <tr style="background-color: #d9f8c4;">
-        <td class="time">08:50 - 09:30</td>
-        <td class="event">Keynote 2</td>
-      </tr>
-      <tr style="background-color: #d9f8c4;">
-        <td class="time">09:30 - 10:10</td>
-        <td class="event">Keynote 3</td>
-      </tr>
-      <tr style="background-color: #fce8e6;">
-        <td class="time">10:10 - 10:30</td>
-        <td class="event">Poster Session & Coffee Break</td>
-      </tr>
-      <tr style="background-color: #d9f8c4;">
-        <td class="time">10:30 - 11:10</td>
-        <td class="event">Keynote 4</td>
-      </tr>
-      <tr style="background-color: #d9f8c4;">
-        <td class="time">11:10 - 11:50</td>
-        <td class="event">Keynote 5</td>
-      </tr>
-      <tr>
-        <td class="time">11:50 - 12:00</td>
-        <td class="event">Closing Remarks</td>
-      </tr>
-    </tbody>
-  </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Event</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="time">08:00 - 08:10</td>
+      <td class="event">Opening Remarks</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">08:10 - 08:40</td>
+      <td class="event">Keynote: Dr. Liu Ren (Bosch Center for Artificial Intelligence)</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">08:40 - 09:10</td>
+      <td class="event">Keynote: Raquel Urtasun (Waabi & University of Toronto)</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">09:10 - 09:40</td>
+      <td class="event">Keynote: Pavlo Molchanov (NVIDIA Research)</td>
+    </tr>
+    <tr class="highlight-red">
+      <td class="time">09:40 - 10:00</td>
+      <td class="event">Poster Session & Coffee Break</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">10:00 - 10:30</td>
+      <td class="event">Keynote: Benjamin Sapp (Waymo)</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">10:30 - 11:00</td>
+      <td class="event">Keynote: Gianluca Corrado (Wayve)</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">11:00 - 11:30</td>
+      <td class="event">Panel Discussion</td>
+    </tr>
+    <tr class="highlight-green">
+      <td class="time">11:30 - 12:00</td>
+      <td class="event">Oral Presentations</td>
+    </tr>
+    <tr>
+      <td class="time">12:00 - 12:15</td>
+      <td class="event">Best Paper Award & Closing Remarks</td>
+    </tr>
+  </tbody>
+</table>
