@@ -71,7 +71,7 @@ nav_order: 2
     </tr>
     <tr class="highlight-green">
       <td class="time">08:10 - 08:40</td>
-      <td class="event">Keynote: Dr. Liu Ren (Bosch Center for Artificial Intelligence)</td>
+      <td class="event">Keynote: Liu Ren (Bosch Center for Artificial Intelligence)</td>
     </tr>
     <tr class="highlight-green">
       <td class="time">08:40 - 09:10</td>
@@ -95,7 +95,7 @@ nav_order: 2
     </tr>
     <tr class="highlight-green">
       <td class="time">11:00 - 11:30</td>
-      <td class="event">Panel Discussion</td>
+      <td class="event">Keynote: Hongyang Li (The University of Hong Kong)</td>
     </tr>
     <tr class="highlight-green">
       <td class="time">11:30 - 12:00</td>

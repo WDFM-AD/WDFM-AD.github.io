@@ -46,6 +46,7 @@ The workshop will cover a wide range of topics, including but not limited to:
   {% include people.liquid name="Pavlo Molchanov" affiliation="NVIDIA Research" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
   {% include people.liquid name="Benjamin Sapp" affiliation="Waymo" url="https://www.linkedin.com/in/benjamin-sapp-b335216/" img="assets/img/headshots/ben_sapp.jpeg" %}
   {% include people.liquid name="Gianluca Corrado" affiliation="Wayve" url="https://www.linkedin.com/in/gianluca-corrado-617a6167/" img="assets/img/headshots/Gianluca-Corrado-552.jpg" %}
+  {% include people.liquid name="Hongyang Li" affiliation="The University of Hong Kong" url="https://lihongyang.info/" img="assets/img/headshots/hongyang_li.jpg" %}
 </div>
 </div>
 <br><br>
