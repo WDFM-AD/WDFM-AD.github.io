@@ -9,14 +9,14 @@ nav_order: 2
 
 ## Important Dates (Tentative)
 
-- **📝 Paper Submission Opens:** February 5, 2025  
+- **📝 Paper Submission Opens:** February 4, 2025  
 - **📅 Paper Submission Deadline:** March 15, 2025  
 - **📢 Notification to Authors:** March 31, 2025  
 - **✅ Camera-Ready Submission:** April 7, 2025  
 
 ## Submission Guidelines
 
-We invite submissions of high-quality, original research papers (up to **8 pages**) for inclusion in the **CVPR 2025 Workshop proceedings**. Papers must adhere to the official [CVPR 2025 submission guidelines](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines). Paper submission portal: **[TBD]()**.
+We invite submissions of high-quality, original research papers (up to **8 pages**) for inclusion in the **CVPR 2025 Workshop proceedings**. Papers must adhere to the official [CVPR 2025 submission guidelines](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines). Paper submission portal: **[https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/WDFM-AD](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/WDFM-AD)**.
 
 ## Topics of Interest
 
