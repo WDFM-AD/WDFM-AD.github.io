@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-## Important Dates
+## Important Dates (Tentative)
 
 - **📝 Paper Submission Opens:** February 5, 2025  
 - **📅 Paper Submission Deadline:** March 15, 2025  
