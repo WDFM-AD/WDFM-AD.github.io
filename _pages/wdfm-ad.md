@@ -24,7 +24,7 @@ The **Workshop on Distillation of Foundation Models for Autonomous Driving (WDFM
 
 **[📢 Call for Papers](/call_for_papers)**
 
-**[🔗 Reviewer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLScjcKR6V8u-4HvNyGuS0QnrqEfRnLKk8zXhmfpoD4SM2q4p6Q/viewform?usp=header)**
+**[🔗 Reviewer Signup Form](https://forms.gle/XK3xALMwWkEq6aT18)**
 
 We are actively **seeking sponsorship** to support the workshop. If your organization is interested in sponsoring, please contact us at 📧 <a href="mailto:cvpr25.wdfm.ad@gmail.com" target="_blank">cvpr25.wdfm.ad@gmail.com</a>.
 
