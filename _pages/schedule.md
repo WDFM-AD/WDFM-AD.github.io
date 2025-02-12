@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Tentative Schedule
 permalink: /schedule/
 nav: true
 nav_order: 2
@@ -16,7 +16,7 @@ nav_order: 2
   }
 
   thead {
-    background-color: #4CAF50;
+    background-color: #b71c1c;
     color: white;
     text-align: center;
   }
@@ -48,10 +48,6 @@ nav_order: 2
     color: #555;
   }
 
-  .highlight-green {
-    background-color: #d9f8c4;
-  }
-
   .highlight-red {
     background-color: #fce8e6;
   }
@@ -69,15 +65,15 @@ nav_order: 2
       <td class="time">08:00 - 08:10</td>
       <td class="event">Opening Remarks</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">08:10 - 08:40</td>
       <td class="event">Keynote: Liu Ren (Bosch Center for Artificial Intelligence)</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">08:40 - 09:10</td>
       <td class="event">Keynote: Raquel Urtasun (Waabi & University of Toronto)</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">09:10 - 09:40</td>
       <td class="event">Keynote: Pavlo Molchanov (NVIDIA Research)</td>
     </tr>
@@ -85,19 +81,19 @@ nav_order: 2
       <td class="time">09:40 - 10:00</td>
       <td class="event">Poster Session & Coffee Break</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">10:00 - 10:30</td>
       <td class="event">Keynote: Benjamin Sapp (Waymo)</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">10:30 - 11:00</td>
       <td class="event">Keynote: Gianluca Corrado (Wayve)</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">11:00 - 11:30</td>
       <td class="event">Keynote: Hongyang Li (The University of Hong Kong)</td>
     </tr>
-    <tr class="highlight-green">
+    <tr class="highlight-red">
       <td class="time">11:30 - 12:00</td>
       <td class="event">Oral Presentations</td>
     </tr>
