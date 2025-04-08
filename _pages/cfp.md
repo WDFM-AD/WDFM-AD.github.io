@@ -12,7 +12,7 @@ nav_order: 2
 - **📝 Paper Submission Opens:** February 4, 2025  
 - **📅 Paper Submission Deadline:** ~~March 15, 2025~~ March 18, 23:59 PDT  
 - **📢 Notification to Authors:** March 31, 2025  
-- **✅ Camera-Ready Submission:** April 7, 2025  
+- **✅ Camera-Ready Submission:** April 15, 2025  
 
 ## Submission Guidelines
 
