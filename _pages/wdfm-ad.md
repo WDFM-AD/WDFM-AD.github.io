@@ -69,6 +69,7 @@ The workshop will cover a wide range of topics, including but not limited to:
   {% include people_horizontal.liquid name="Can Cui" affiliation="Purdue University" url="https://cancui19.github.io/" img="assets/img/headshots/linkedin-company-logo-can_cui.jpg" %}
   {% include people_horizontal.liquid name="Shuo Xing" affiliation="Texas A&M University" url="https://shuoxing98.github.io/" img="assets/img/headshots/Shuo_Xing.jpg" %}
   {% include people_horizontal.liquid name="Chun-Hao Liu" affiliation="Amazon" url="https://www.linkedin.com/in/chun-hao-liu-b4b6185b/" img="assets/img/headshots/chun-hao_liu.jpeg" %}
+  {% include people_horizontal.liquid name="Selim Engin" affiliation="Sony Research" url="https://www.linkedin.com/in/selim-engin/" img="assets/img/headshots/selim.jpeg" %}
   {% include people_horizontal.liquid name="Chenglin Miao" affiliation="Iowa State University" url="https://clmiao.github.io/" img="assets/img/headshots/cmiao.jpg" %}
   {% include people_horizontal.liquid name="Zhengzhong Tu" affiliation="Texas A&M University" url="https://vztu.github.io/" img="assets/img/headshots/zhengzhong.jpeg"%}
   {% include people_horizontal.liquid name="Jiachen Li" affiliation="University of California, Riverside" url="https://jiachenli94.github.io/" img="assets/img/headshots/jiachen.jpg"%}
