@@ -53,7 +53,7 @@ nav_order: 2
   }
 </style>
 
-### AM June 12, 2025
+### June 12, 2025
 
 <table>
   <thead>
@@ -64,44 +64,40 @@ nav_order: 2
   </thead>
   <tbody>
     <tr>
-      <td class="time">08:00 - 08:10</td>
+      <td class="time">08:20 - 08:30</td>
       <td class="event">Opening Remarks</td>
     </tr>
-    <tr class="highlight-red">
-      <td class="time">08:10 - 08:40</td>
-      <td class="event">Keynote: Liu Ren (Bosch Center for Artificial Intelligence)</td>
-    </tr>
-    <tr class="highlight-red">
-      <td class="time">08:40 - 09:10</td>
-      <td class="event">Keynote: Raquel Urtasun (Waabi & University of Toronto)</td>
-    </tr>
-    <tr class="highlight-red">
-      <td class="time">09:10 - 09:40</td>
-      <td class="event">Keynote: Pavlo Molchanov (NVIDIA Research)</td>
-    </tr>
-    <tr class="highlight-red">
-      <td class="time">09:40 - 10:00</td>
-      <td class="event">Poster Session & Coffee Break</td>
-    </tr>
-    <tr class="highlight-red">
-      <td class="time">10:00 - 10:30</td>
-      <td class="event">Keynote: Benjamin Sapp (Waymo)</td>
-    </tr>
-    <tr class="highlight-red">
-      <td class="time">10:30 - 11:00</td>
+    <tr >
+      <td class="time">08:30 - 09:05</td>
       <td class="event">Keynote: Gianluca Corrado (Wayve)</td>
     </tr>
-    <tr class="highlight-red">
-      <td class="time">11:00 - 11:30</td>
+    <tr >
+      <td class="time">09:05 - 09:40</td>
+      <td class="event">Keynote: Liu Ren (Bosch Center for Artificial Intelligence)</td>
+    </tr>
+    <tr >
+      <td class="time">09:40 - 10:15</td>
+      <td class="event">Keynote: Pavlo Molchanov (NVIDIA Research)</td>
+    </tr>
+    <tr >
+      <td class="time">10:15 - 10:35</td>
+      <td class="event">Poster Session & Coffee Break</td>
+    </tr>
+    <tr >
+      <td class="time">10:35 - 11:10</td>
+      <td class="event">Keynote: Benjamin Sapp (Waymo)</td>
+    </tr>
+    <tr >
+      <td class="time">11:10 - 11:45</td>
+      <td class="event">Keynote: Raquel Urtasun (Waabi & University of Toronto)</td>
+    </tr>
+    <tr >
+      <td class="time">11:45 - 12:20</td>
       <td class="event">Keynote: Hongyang Li (The University of Hong Kong)</td>
     </tr>
-    <tr class="highlight-red">
-      <td class="time">11:30 - 12:00</td>
-      <td class="event">Oral Presentations</td>
-    </tr>
     <tr>
-      <td class="time">12:00 - 12:15</td>
-      <td class="event">Best Paper Award & Closing Remarks</td>
+      <td class="time">12:20 - 12:30</td>
+      <td class="event">Closing Remarks</td>
     </tr>
   </tbody>
 </table>
