@@ -1,9 +1,10 @@
 ---
 layout: default
-title: ICCV 2025
+title: ICCV25
 permalink: /iccv25/
 subtitle: Oct 2025, Honolulu, Hawaii
-nav: false
+nav: true
+nav_order: 3
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
