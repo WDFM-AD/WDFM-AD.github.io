@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/schedule/";
           },
+        },{id: "nav-iccv25",
+          title: "ICCV25",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/iccv25/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
