@@ -51,6 +51,7 @@ The workshop will cover a wide range of topics, including but not limited to:
   {% include people.liquid name="Dragomir Anguelov" affiliation="Waymo" url="https://www.linkedin.com/in/dragomiranguelov/" img="assets/img/headshots/dragomir_anguelov.jpeg" %}
   {% include people.liquid name="Jose Alvarez" affiliation="NVIDIA" url="https://alvarezlopezjosem.github.io/" img="assets/img/headshots/jose_alvarez.jpg" %}
   {% include people.liquid name="Kai Wang" affiliation="Zoox" url="https://www.linkedin.com/in/shiaokai/" img="assets/img/headshots/kai_wang.jpeg" %}
+  {% include people.liquid name="Jamie Shotton" affiliation="Wayve" url="https://jamie.shotton.org/" img="assets/img/headshots/jamie_shotton.jpeg" %}
 </div>
 </div>
 <br><br>
@@ -59,7 +60,7 @@ The workshop will cover a wide range of topics, including but not limited to:
 <br>
 <div class="container">
 <div class="row row-cols-2">
-  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
+  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Uber" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
   {% include people_horizontal.liquid name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="assets/img/headshots/yunsheng.jpg" %}
   {% include people_horizontal.liquid name="Xin Ye" affiliation="Bosch AI" url="https://scholar.google.com/citations?user=2A79H_UAAAAJ&hl=en" img="assets/img/headshots/xin_ye.jpeg" %}
   {% include people_horizontal.liquid name="Can Cui" affiliation="Purdue University" url="https://scholar.google.com/citations?user=9rqTLMcAAAAJ&hl=en" img="assets/img/headshots/can_cui.jpeg" %}
