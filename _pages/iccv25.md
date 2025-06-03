@@ -44,12 +44,13 @@ The workshop will cover a wide range of topics, including but not limited to:
 - Surveys and Prospective Papers for Autonomous Driving 
 <br><br>
 
-
 # Keynote Speakers
 <br>
 <div class="container">
-<div class="row row-cols-2">
-{% include people_horizontal.liquid name="Dragomir Anguelov" affiliation="Waymo" url="https://www.linkedin.com/in/dragomiranguelov/" img="assets/img/headshots/dragomir_anguelov.jpeg" %}
+<div class="row row-cols-3">
+  {% include people.liquid name="Dragomir Anguelov" affiliation="Waymo" url="https://www.linkedin.com/in/dragomiranguelov/" img="assets/img/headshots/dragomir_anguelov.jpeg" %}
+  {% include people.liquid name="Jose Alvarez" affiliation="NVIDIA" url="https://alvarezlopezjosem.github.io/" img="assets/img/headshots/jose_alvarez.jpg" %}
+  {% include people.liquid name="Kai Wang" affiliation="Zoox" url="https://www.linkedin.com/in/shiaokai/" img="assets/img/headshots/kai_wang.jpeg" %}
 </div>
 </div>
 <br><br>
