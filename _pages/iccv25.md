@@ -47,7 +47,11 @@ The workshop will cover a wide range of topics, including but not limited to:
 
 # Keynote Speakers
 <br>
-TBD.
+<div class="container">
+<div class="row row-cols-2">
+{% include people_horizontal.liquid name="Dragomir Anguelov" affiliation="Waymo" url="https://www.linkedin.com/in/dragomiranguelov/" img="assets/img/headshots/dragomir_anguelov.jpeg" %}
+</div>
+</div>
 <br><br>
 
 # Organizers
