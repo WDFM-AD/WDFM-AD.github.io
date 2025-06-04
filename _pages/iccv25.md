@@ -44,6 +44,19 @@ The workshop will cover a wide range of topics, including but not limited to:
 - Surveys and Prospective Papers for Autonomous Driving 
 <br><br>
 
+# Call for Papers
+
+**Important Dates:**  
+- **Paper Submission Opens:** June 1, 2025  
+- **Paper Submission Deadline:** June 27, 2025  
+- **Notification to Authors:** July 11, 2025  
+- **Camera-Ready Submission:** August 18, 2025  
+
+- **Submission Guidelines:** [ICCV 2025 Author Guidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines)  
+- **Submission Portal:** [OpenReview Submission](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/WDFM-AD)  
+- **Contact Email:** [wdfm-ad@googlegroups.com](mailto:wdfm-ad@googlegroups.com)  
+<br>
+
 # Keynote Speakers
 <br>
 <div class="container">
