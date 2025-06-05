@@ -7,32 +7,40 @@ nav: true
 nav_order: 2
 ---
 
+## Call for Papers
+
+We invite high-quality, original research papers (up to **8 pages**) for inclusion in the **ICCV 2025 Workshop on Distillation of Foundation Models for Autonomous Driving (WDFM-AD)** proceedings.
+
 ## Important Dates
 
-- **📝 Paper Submission Opens:** February 4, 2025  
-- **📅 Paper Submission Deadline:** ~~March 15, 2025~~ March 18, 23:59 PDT  
-- **📢 Notification to Authors:** March 31, 2025  
-- **✅ Camera-Ready Submission:** April 15, 2025  
+- **📝 Paper Submission Opens:** June 1, 2025  
+- **📅 Paper Submission Deadline:** June 27, 2025  
+- **📢 Notification to Authors:** July 11, 2025  
+- **✅ Camera-Ready Submission:** August 18, 2025  
 
 ## Submission Guidelines
 
-We invite submissions of high-quality, original research papers (up to **8 pages**) for inclusion in the **CVPR 2025 Workshop proceedings**. Papers must adhere to the official [CVPR 2025 submission guidelines](https://cvpr.thecvf.com/Conferences/2025/AuthorGuidelines). Paper submission portal: **[https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/WDFM-AD](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/WDFM-AD)**.
+- Please follow the [ICCV 2025 Author Guidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines).  
+- Submit your paper via [OpenReview](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/WDFM-AD).  
+- Papers should not exceed 8 pages (excluding references) and must adhere to the ICCV formatting requirements.
 
 ## Topics of Interest
 
-We welcome contributions in the following areas (but not limited to):
+We welcome submissions on topics including, but not limited to:
 
-- **🚗 Foundation Models for Autonomous Driving**  
-- **🎓 Knowledge Distillation for Autonomous Driving**  
-- **🔍 Small Language Models for Autonomous Driving**  
-- **🖼️ Vision-Language Models for Autonomous Driving**  
-- **🎨 Generative AI Models for Autonomous Driving**  
-- **🔄 Multimodal Motion Prediction and Planning**  
-- **🌍 Domain Adaptation and Transfer Learning in Autonomous Driving**  
-- **🧩 Multimodal Fusion for Autonomous Driving**  
-- **🔐 Trustworthy Machine Learning for Autonomous Driving**  
-- **🏎️ Applications of Language or Vision Models in Autonomous Driving**  
-- **📖 Surveys and Prospective Papers on Autonomous Driving**  
+- Foundation Models for Autonomous Driving  
+- Knowledge Distillation in Autonomous Driving  
+- Small Language Models for Driving Tasks  
+- Vision-Language Models for Driving Applications  
+- Generative AI in Autonomous Driving  
+- Multimodal Motion Prediction and Planning  
+- Domain Adaptation and Transfer Learning  
+- Multimodal Sensor Fusion  
+- Trustworthy and Robust Machine Learning  
+- Applications of LLMs and Vision Models in Driving  
+- Survey and Perspective Papers
 
-For inquiries, feel free to reach out to the organizing committee at
-<a href="mailto:cvpr25.wdfm.ad@gmail.com" target="_blank">cvpr25.wdfm.ad@gmail.com</a>.
+## Contact
+
+For questions or additional information, please contact the organizing committee at  
+📧 [wdfm-ad@googlegroups.com](mailto:wdfm-ad@googlegroups.com)

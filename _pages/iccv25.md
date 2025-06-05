@@ -24,7 +24,7 @@ social: false # includes social icons at the bottom of the page
 
 The **2nd Workshop on Distillation of Foundation Models for Autonomous Driving (WDFM-AD)** focuses on advancing the state of the art in deploying large foundation models—such as vision-language models (VLMs) and generative AI (GenAI) models—into autonomous vehicles through efficient distillation techniques. Building on the success of our previous workshops on large language and vision models for autonomous driving, WDFM-AD aims to bring together researchers and industry professionals to explore innovative approaches that accelerate the safe, efficient, and scalable adoption of cutting-edge AI technologies in autonomous vehicles. 
 
-<!-- **[📢 Call for Papers -- Open for Submissions!](/call_for_papers)** -->
+**[📢 Call for Papers -- Open for Submissions!](/call_for_papers)**
 
 <!-- **[🔗 Reviewer Signup Form](https://forms.gle/XK3xALMwWkEq6aT18)** -->
 
@@ -44,7 +44,7 @@ The workshop will cover a wide range of topics, including but not limited to:
 - Surveys and Prospective Papers for Autonomous Driving 
 <br><br>
 
-# Call for Papers
+<!-- # Call for Papers
 
 **Important Dates:**  
 - **Paper Submission Opens:** June 1, 2025  
@@ -55,7 +55,7 @@ The workshop will cover a wide range of topics, including but not limited to:
 - **Submission Guidelines:** [ICCV 2025 Author Guidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines)  
 - **Submission Portal:** [OpenReview Submission](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/WDFM-AD)  
 - **Contact Email:** [wdfm-ad@googlegroups.com](mailto:wdfm-ad@googlegroups.com)  
-<br>
+<br> -->
 
 # Keynote Speakers
 <br>
