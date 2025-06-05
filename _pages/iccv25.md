@@ -65,7 +65,7 @@ The workshop will cover a wide range of topics, including but not limited to:
   {% include people.liquid name="Jose Alvarez" affiliation="NVIDIA" url="https://alvarezlopezjosem.github.io/" img="assets/img/headshots/jose_alvarez.jpg" %}
   {% include people.liquid name="Kai Wang" affiliation="Zoox" url="https://www.linkedin.com/in/shiaokai/" img="assets/img/headshots/kai_wang.jpeg" %}
   {% include people.liquid name="Jamie Shotton" affiliation="Wayve" url="https://jamie.shotton.org/" img="assets/img/headshots/jamie_shotton.jpeg" %}
-  {% include people.liquid name="Min Cai" affiliation="Uber" url="https://scholar.google.com/citations?user=Mi2ryzoAAAAJ&hl=en" img="assets/img/headshots/min_cai.png" %}
+  {% include people.liquid name="Min Cai" affiliation="Uber" url="https://scholar.google.com/citations?user=Mi2ryzoAAAAJ&hl=en" img="assets/img/headshots/min_cai_new.jpeg" %}
 </div>
 </div>
 <br><br>
