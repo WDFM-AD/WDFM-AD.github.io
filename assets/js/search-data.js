@@ -3,28 +3,28 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-wdfm-ad",
-    title: "WDFM-AD",
+    id: "nav-1st-wdfm-ad",
+    title: "1st WDFM-AD",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-call-for-papers",
+  },{id: "nav-cvpr-schedule",
+          title: "CVPR Schedule",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/schedule/";
+          },
+        },{id: "nav-call-for-papers",
           title: "Call for Papers",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/call_for_papers/";
           },
-        },{id: "nav-tentative-schedule",
-          title: "Tentative Schedule",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/schedule/";
-          },
-        },{id: "nav-iccv25",
-          title: "ICCV25",
+        },{id: "nav-2nd-wdfm-ad",
+          title: "2nd WDFM-AD",
           description: "",
           section: "Navigation",
           handler: () => {
