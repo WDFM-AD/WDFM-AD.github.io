@@ -51,12 +51,7 @@ nav_order: 2
   }
 </style>
 
-### June 12, 2025
-
-#### Poster Session Details:
-- **Location:** ExHall D  
-- **Poster Boards:** #110 – #122  
-- **Time:** 12:00PM – 02:00PM  
+### June 12, 2025 - Room 208 B
 
 <table>
   <thead>
@@ -103,8 +98,15 @@ nav_order: 2
       <td class="event">Closing Remarks</td>
     </tr>
     <tr>
-      <td class="time">12:30 PM - 02:00 PM</td>
+      <td class="time">12:30 - 14:00</td>
       <td class="event">Poster Session</td>
     </tr>
   </tbody>
 </table>
+
+<br>
+
+#### Poster Session Details:
+- **Location:** ExHall D  
+- **Poster Boards:** #110 – #122  
+- **Time:** 12:30 PM – 02:00 PM  
