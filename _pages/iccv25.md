@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ICCV25
+title: 2nd WDFM-AD
 permalink: /iccv25/
 subtitle: Oct 2025, Honolulu, Hawaii
 nav: true
-nav_order: 3
+nav_order: 4
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -26,9 +26,9 @@ The **2nd Workshop on Distillation of Foundation Models for Autonomous Driving (
 
 **[📢 Call for Papers -- Open for Submissions!](/call_for_papers)**
 
-<!-- **[🔗 Reviewer Signup Form](https://forms.gle/XK3xALMwWkEq6aT18)** -->
+**[🔗 Reviewer Signup Form](https://forms.gle/pCRVAiq7L8kBTnLD6)**
 
-<!-- We are actively **seeking sponsorship** to support the workshop. If your organization is interested in sponsoring, please contact us at 📧 <a href="mailto:cvpr25.wdfm.ad@gmail.com" target="_blank">cvpr25.wdfm.ad@gmail.com</a>. -->
+We are actively **seeking sponsorship** to support the workshop. If your organization is interested in sponsoring, please contact us at 📧 [wdfm-ad@googlegroups.com](mailto:wdfm-ad@googlegroups.com).
 
 The workshop will cover a wide range of topics, including but not limited to:  
 - Foundation Models for Autonomous Driving

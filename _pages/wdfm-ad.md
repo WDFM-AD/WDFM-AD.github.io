@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WDFM-AD
+title: 1st WDFM-AD
 permalink: /
 subtitle: June 2025, Music City Center, Nashville TN
 
@@ -25,8 +25,6 @@ The **Workshop on Distillation of Foundation Models for Autonomous Driving (WDFM
 <!-- **[📢 Call for Papers -- Open for Submissions!](/call_for_papers)** -->
 
 <!-- **[🔗 Reviewer Signup Form](https://forms.gle/XK3xALMwWkEq6aT18)** -->
-
-We are actively **seeking sponsorship** to support the workshop. If your organization is interested in sponsoring, please contact us at 📧 <a href="mailto:cvpr25.wdfm.ad@gmail.com" target="_blank">cvpr25.wdfm.ad@gmail.com</a>.
 
 The workshop will cover a wide range of topics, including but not limited to:  
 - Foundation Models for Autonomous Driving
@@ -54,6 +52,16 @@ The workshop will cover a wide range of topics, including but not limited to:
   {% include people.liquid name="Gianluca Corrado" affiliation="Wayve" url="https://www.linkedin.com/in/gianluca-corrado-617a6167/" img="assets/img/headshots/Gianluca-Corrado-552.jpg" %}
   {% include people.liquid name="Hongyang Li" affiliation="The University of Hong Kong" url="https://lihongyang.info/" img="assets/img/headshots/hongyang_li.jpg" %}
 </div>
+</div>
+<br><br>
+
+# Sponsors
+We sincerely thank Bosch for their generous sponsorship of this workshop.
+
+<div align="center">
+  <a href="https://www.bosch.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" alt="Bosch Logo" width="200"/>
+  </a>
 </div>
 <br><br>
 

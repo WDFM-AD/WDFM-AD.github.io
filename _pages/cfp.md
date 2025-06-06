@@ -2,12 +2,9 @@
 layout: page
 permalink: /call_for_papers/
 title: Call for Papers
-description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
-
-## Call for Papers
 
 We invite high-quality, original research papers (up to **8 pages**) for inclusion in the **ICCV 2025 Workshop on Distillation of Foundation Models for Autonomous Driving (WDFM-AD)** proceedings.
 

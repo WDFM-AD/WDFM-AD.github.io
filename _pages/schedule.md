@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Tentative Schedule
+title: CVPR Schedule
 permalink: /schedule/
 nav: true
 nav_order: 2
 ---
-
-<br>
 <style>
   table {
     width: 100%;
@@ -55,6 +53,11 @@ nav_order: 2
 
 ### June 12, 2025
 
+#### Poster Session Details:
+- **Location:** ExHall D  
+- **Poster Boards:** #110 – #122  
+- **Time:** 12:00PM – 02:00PM  
+
 <table>
   <thead>
     <tr>
@@ -98,6 +101,10 @@ nav_order: 2
     <tr>
       <td class="time">12:20 - 12:30</td>
       <td class="event">Closing Remarks</td>
+    </tr>
+    <tr>
+      <td class="time">12:30 PM - 02:00 PM</td>
+      <td class="event">Poster Session</td>
     </tr>
   </tbody>
 </table>
