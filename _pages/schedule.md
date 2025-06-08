@@ -79,7 +79,7 @@ nav_order: 2
     </tr>
     <tr >
       <td class="time">10:15 - 10:35</td>
-      <td class="event">Poster Session & Coffee Break</td>
+      <td class="event">Coffee Break</td>
     </tr>
     <tr >
       <td class="time">10:35 - 11:10</td>
@@ -94,11 +94,7 @@ nav_order: 2
       <td class="event">Keynote: Hongyang Li (The University of Hong Kong)</td>
     </tr>
     <tr>
-      <td class="time">12:20 - 12:30</td>
-      <td class="event">Closing Remarks</td>
-    </tr>
-    <tr>
-      <td class="time">12:30 - 14:00</td>
+      <td class="time">12:20 - 14:00</td>
       <td class="event">Poster Session</td>
     </tr>
   </tbody>
@@ -109,4 +105,4 @@ nav_order: 2
 #### Poster Session Details:
 - **Location:** ExHall D  
 - **Poster Boards:** #110 – #122  
-- **Time:** 12:30 PM – 02:00 PM  
+- **Time:** 12:20 PM – 02:00 PM  
