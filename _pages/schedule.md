@@ -98,7 +98,7 @@ nav_order: 2
     <tr >
       <td class="time">11:45 - 12:20</td>
       <td class="event">Keynote: Hongyang Li (The University of Hong Kong)</td>
-      <td class="title">Will Foundation Models resolve Fully Autonomous Driving?</td>
+      <td class="title">Will Foundation Models Resolve Fully Autonomous Driving?</td>
     </tr>
     <tr>
       <td class="time">12:20 - 14:00</td>
