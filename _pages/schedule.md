@@ -74,7 +74,7 @@ nav_order: 2
     <tr >
       <td class="time">09:05 - 09:40</td>
       <td class="event">Keynote: Liu Ren (Bosch Center for Artificial Intelligence)</td>
-      <td class="title">Addresing Real-World ADAS Challengs with Foundation and Diffusion Models</td>
+      <td class="title">Addresing Real-World ADAS Challenges with Foundation and Diffusion Models</td>
     </tr>
     <tr >
       <td class="time">09:40 - 10:15</td>
