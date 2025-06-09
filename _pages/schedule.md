@@ -103,7 +103,7 @@ nav_order: 2
     <tr>
       <td class="time">12:20 - 14:00</td>
       <td class="event">Poster Session</td>
-      </tr>
+      <td class="title"></td>
     </tr>
   </tbody>
 </table>
