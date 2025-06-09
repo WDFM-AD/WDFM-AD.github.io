@@ -58,13 +58,13 @@ The workshop will cover a wide range of topics, including but not limited to:
 # Sponsors
 We sincerely thank Bosch and Uber for their generous sponsorship of the WDFM-AD workshop. This support has enabled us to provide an exceptional value to the WDFM-AD audience.
 
-<div align="center">
-  <a href="https://www.bosch.com" target="_blank" style="margin-right: 60px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" alt="Bosch Logo" width="200"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
+  <a href="https://www.bosch.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" alt="Bosch Logo" style="height: 80px;" />
   </a>
 
   <a href="https://www.uber.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg" alt="Uber Logo" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg" alt="Uber Logo" style="height: 80px;" />
   </a>
 </div>
 <br><br>
