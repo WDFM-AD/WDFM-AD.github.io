@@ -73,7 +73,7 @@ We sincerely thank Bosch and Uber for their generous sponsorship of the WDFM-AD 
 <br>
 <div class="container">
 <div class="row row-cols-2">
-  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Bosch AI" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
+  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Uber" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
   {% include people_horizontal.liquid name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="assets/img/headshots/yunsheng.jpg" %}
   {% include people_horizontal.liquid name="Xin Ye" affiliation="Bosch AI" url="https://scholar.google.com/citations?user=2A79H_UAAAAJ&hl=en" img="assets/img/headshots/xin_ye.jpeg" %}
   {% include people_horizontal.liquid name="Xu Cao" affiliation="UIUC" url="https://www.irohxucao.com/" img="assets/img/headshots/linkedin-company-logo-xu_cao.jpg" %}
