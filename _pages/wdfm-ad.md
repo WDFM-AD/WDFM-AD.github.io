@@ -64,7 +64,7 @@ We sincerely thank Bosch and Uber for their generous sponsorship of the WDFM-AD 
   </a>
 
   <a href="https://www.uber.com" target="_blank">
-    <img src="https://en.wikipedia.org/wiki/File:Uber_logo_2018.png" alt="Uber Logo" width="200"/>
+    <img src="https://commons.wikimedia.org/wiki/File:Uber_logo_2018.svg" alt="Uber Logo" width="200"/>
   </a>
 </div>
 <br><br>
