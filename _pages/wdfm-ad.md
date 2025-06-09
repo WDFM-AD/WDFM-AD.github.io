@@ -56,7 +56,7 @@ The workshop will cover a wide range of topics, including but not limited to:
 <br><br>
 
 # Sponsors
-We sincerely thank Bosch and Uber for their generous sponsorship of the WDFM-AD workshop. Your support has enabled us to provide an exceptional value to the students, academics, and industry researchers that will attend the CVPR 2025 WDFM-AD workshop.
+We sincerely thank Bosch and Uber for their generous sponsorship of the WDFM-AD workshop. This support has enabled us to provide an exceptional value to the WDFM-AD audience.
 
 <div align="center">
   <a href="https://www.bosch.com" target="_blank" style="margin-right: 20px;">
