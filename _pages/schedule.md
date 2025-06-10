@@ -79,7 +79,7 @@ nav_order: 2
     <tr >
       <td class="time">09:40 - 10:15</td>
       <td class="event">Keynote: Pavlo Molchanov (NVIDIA Research)</td>
-      <td class="title">TBD</td>
+      <td class="title">The Power of Distillation in Foundation Models</td>
     </tr>
     <tr >
       <td class="time">10:15 - 10:35</td>
