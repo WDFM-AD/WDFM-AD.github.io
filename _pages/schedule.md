@@ -92,8 +92,8 @@ nav_order: 2
     </tr>
     <tr >
       <td class="time">11:10 - 11:45</td>
-      <td class="event">Keynote: Raquel Urtasun (Waabi & University of Toronto)</td>
-      <td class="title">TBD</td>
+      <td class="event">Keynote: Xianming Liu (XPeng)</td>
+      <td class="title">Scaling up Autonomous Driving via Large Foundation Models</td>
     </tr>
     <tr >
       <td class="time">11:45 - 12:20</td>
