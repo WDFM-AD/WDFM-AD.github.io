@@ -57,11 +57,15 @@ The workshop will cover a wide range of topics, including but not limited to:
 <br><br>
 
 # Sponsors
-We sincerely thank Bosch for their generous sponsorship of this workshop.
+We sincerely thank Bosch and Uber for their generous sponsorship of the WDFM-AD workshop. This support has enabled us to provide an exceptional value to the WDFM-AD audience.
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center; gap: 60px;">
   <a href="https://www.bosch.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" alt="Bosch Logo" width="200"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Bosch-logo.svg" alt="Bosch Logo" style="height: 80px;" />
+  </a>
+
+  <a href="https://www.uber.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Uber_logo_2018.svg" alt="Uber Logo" style="height: 80px;" />
   </a>
 </div>
 <br><br>
@@ -70,7 +74,7 @@ We sincerely thank Bosch for their generous sponsorship of this workshop.
 <br>
 <div class="container">
 <div class="row row-cols-2">
-  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Bosch AI" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
+  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Uber" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
   {% include people_horizontal.liquid name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="assets/img/headshots/yunsheng.jpg" %}
   {% include people_horizontal.liquid name="Xin Ye" affiliation="Bosch AI" url="https://scholar.google.com/citations?user=2A79H_UAAAAJ&hl=en" img="assets/img/headshots/xin_ye.jpeg" %}
   {% include people_horizontal.liquid name="Xu Cao" affiliation="UIUC" url="https://www.irohxucao.com/" img="assets/img/headshots/linkedin-company-logo-xu_cao.jpg" %}
