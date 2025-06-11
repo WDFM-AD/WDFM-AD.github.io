@@ -44,13 +44,14 @@ The workshop will cover a wide range of topics, including but not limited to:
 # Keynote Speakers
 <br>
 <div class="container">
-<div class="row row-cols-3">
+<div class="row row-cols-4">
   {% include people.liquid name="Raquel Urtasun" affiliation="Waabi & University of Toronto" url="https://www.cs.toronto.edu/~urtasun/" img="assets/img/headshots/RaquelUrtasun.jpeg" %}
   {% include people.liquid name="Liu Ren" affiliation="Bosch" url="https://www.liu-ren.com/" img="assets/img/headshots/Liu_Ren_sq.jpeg" %}
   {% include people.liquid name="Pavlo Molchanov" affiliation="NVIDIA" url="https://www.pmolchanov.com/" img="assets/img/headshots/pavlo.png" %}
   {% include people.liquid name="Benjamin Sapp" affiliation="Waymo" url="https://www.linkedin.com/in/benjamin-sapp-b335216/" img="assets/img/headshots/ben_sapp.jpeg" %}
   {% include people.liquid name="Gianluca Corrado" affiliation="Wayve" url="https://www.linkedin.com/in/gianluca-corrado-617a6167/" img="assets/img/headshots/Gianluca-Corrado-552.jpg" %}
   {% include people.liquid name="Hongyang Li" affiliation="The University of Hong Kong" url="https://lihongyang.info/" img="assets/img/headshots/hongyang_li.jpg" %}
+  {% include people.liquid name="Xianming Liu" affiliation="XPeng" url="https://www.linkedin.com/in/xianming-liu-07264326" img="assets/img/headshots/xianming.jpg" %}
 </div>
 </div>
 <br><br>
