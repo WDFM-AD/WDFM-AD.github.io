@@ -11,7 +11,7 @@ We invite high-quality, original research papers (up to **8 pages**) for inclusi
 ## Important Dates
 
 - **📝 Paper Submission Opens:** June 1, 2025  
-- **📅 Paper Submission Deadline:** June 27, 2025  
+- **📅 Paper Submission Deadline:** ~~June 27, 2025~~ June 29 at 11:59 pm Hawaii time
 - **📢 Notification to Authors:** July 11, 2025  
 - **✅ Camera-Ready Submission:** August 18, 2025  
 

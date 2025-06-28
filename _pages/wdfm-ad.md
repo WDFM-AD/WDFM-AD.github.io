@@ -1,8 +1,10 @@
 ---
 layout: default
 title: 1st WDFM-AD
-permalink: /
+permalink: /cvpr25/
 subtitle: June 2025, Music City Center, Nashville TN
+nav: true
+nav_order: 5
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CVPR Schedule
+title: Schedule
 permalink: /schedule/
 nav: true
 nav_order: 2
@@ -51,7 +51,9 @@ nav_order: 2
   }
 </style>
 
-### June 12, 2025 - Room 208 B
+TBD.
+
+<!-- ### June 12, 2025 - Room 208 B
 
 <table>
   <thead>
@@ -113,4 +115,4 @@ nav_order: 2
 #### Poster Session Details:
 - **Location:** ExHall D  
 - **Poster Boards:** #110 – #122  
-- **Time:** 12:20 PM – 02:00 PM  
+- **Time:** 12:20 PM – 02:00 PM   -->

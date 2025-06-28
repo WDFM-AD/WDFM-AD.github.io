@@ -1,10 +1,10 @@
 ---
 layout: default
 title: 2nd WDFM-AD
-permalink: /iccv25/
+permalink: /
 subtitle: Oct 2025, Honolulu, Hawaii
-nav: true
-nav_order: 4
+# nav: true
+# nav_order: 1
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
