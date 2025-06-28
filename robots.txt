@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://wdfm-ad.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://wdfm-ad.github.io/iccv25/sitemap.xml
