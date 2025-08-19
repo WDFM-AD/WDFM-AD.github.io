@@ -44,6 +44,17 @@ The workshop will cover a wide range of topics, including but not limited to:
 
 
 # Keynote Speakers
+<style>
+  .people-img {
+    width: 400px !important;
+    height: 300px !important;
+    object-fit: cover;
+    border-radius: 50%;   /* remove if you prefer square */
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
 <br>
 <div class="container">
 <div class="row row-cols-4">
