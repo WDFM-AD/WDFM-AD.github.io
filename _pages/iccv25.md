@@ -58,40 +58,79 @@ The workshop will cover a wide range of topics, including but not limited to:
 <br> -->
 
 # Keynote Speakers
-<br>
-<div class="container">
-<div class="row row-cols-3">
-  {% include people.liquid name="Dragomir Anguelov" affiliation="Waymo" url="https://www.linkedin.com/in/dragomiranguelov/" img="assets/img/headshots/dragomir_anguelov.jpeg" %}
-  {% include people.liquid name="Ashok Elluswamy" affiliation="Tesla" url="https://www.linkedin.com/in/eashokkumar/" img="assets/img/headshots/Ashok.jpeg" %}
-  {% include people.liquid name="Jose Alvarez" affiliation="NVIDIA" url="https://alvarezlopezjosem.github.io/" img="assets/img/headshots/jose_alvarez.jpg" %}
-  {% include people.liquid name="Jamie Shotton" affiliation="Wayve" url="https://jamie.shotton.org/" img="assets/img/headshots/jamie_shotton.jpeg" %}
-  {% include people.liquid name="Min Cai" affiliation="Uber" url="https://scholar.google.com/citations?user=Mi2ryzoAAAAJ&hl=en" img="assets/img/headshots/min_cai_new.jpeg" %}
-  {% include people.liquid name="Kai Wang" affiliation="Zoox" url="https://www.linkedin.com/in/shiaokai/" img="assets/img/headshots/kai_wang.jpeg" %}
+<div id="keynote-speakers">
+  <style>
+    #keynote-speakers img {
+      width: 280px !important;   /* pick same value for width/height */
+      height: 260px !important;
+      object-fit: cover;
+      border-radius: 0;          /* <-- square corners */
+      display: block;
+      margin: 0 auto;
+    }
+
+    #dragomir .card-title {
+      font-size: 1.8rem;  /* smaller than default h2 */
+    }
+  </style>
+
+  <br>
+  <div class="container">
+    <div class="row row-cols-3">
+      <div id="dragomir">
+        {% include people.liquid 
+          name="Dragomir Anguelov" 
+          affiliation="Waymo" 
+          url="https://www.linkedin.com/in/dragomiranguelov/" 
+          img="assets/img/headshots/dragomir_anguelov.jpeg" %}
+      </div>
+      {% include people.liquid name="Ashok Elluswamy" affiliation="Tesla" url="https://www.linkedin.com/in/eashokkumar/" img="assets/img/headshots/Ashok.jpeg" %}
+      {% include people.liquid name="Jose Alvarez" affiliation="NVIDIA" url="https://alvarezlopezjosem.github.io/" img="assets/img/headshots/jose_alvarez.jpg" %}
+      {% include people.liquid name="Jamie Shotton" affiliation="Wayve" url="https://jamie.shotton.org/" img="assets/img/headshots/jamie_shotton.jpeg" %}
+      {% include people.liquid name="Min Cai" affiliation="Uber" url="https://scholar.google.com/citations?user=Mi2ryzoAAAAJ&hl=en" img="assets/img/headshots/min_cai_new.jpeg" %}
+      {% include people.liquid name="Kai Wang" affiliation="Zoox" url="https://www.linkedin.com/in/shiaokai/" img="assets/img/headshots/kai_wang.jpeg" %}
+    </div>
+  </div>
+  <br><br>
 </div>
-</div>
-<br><br>
 
 # Organizers
-<br>
-<div class="container">
-<div class="row row-cols-2">
-  {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Uber" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
-  {% include people_horizontal.liquid name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="assets/img/headshots/yunsheng.jpg" %}
-  {% include people_horizontal.liquid name="Xin Ye" affiliation="Bosch AI" url="https://scholar.google.com/citations?user=2A79H_UAAAAJ&hl=en" img="assets/img/headshots/xin_ye.jpeg" %}
-  {% include people_horizontal.liquid name="Can Cui" affiliation="Purdue University" url="https://scholar.google.com/citations?user=9rqTLMcAAAAJ&hl=en" img="assets/img/headshots/can_cui.jpeg" %}
-  {% include people_horizontal.liquid name="Mahmut Yurt" affiliation="Stanford University" url="https://scholar.google.com/citations?user=oAXHlRMAAAAJ&hl=en" img="assets/img/headshots/mahmut_yurt.jpeg" %}
-  {% include people_horizontal.liquid name="Selim Engin" affiliation="Sony" url="https://ksengin.github.io/" img="assets/img/headshots/selim.jpeg" %}
-  {% include people_horizontal.liquid name="SungYeon Park" affiliation="Purdue University" url="https://scholar.google.com/citations?user=SKXAwssAAAAJ&hl=ko" img="assets/img/headshots/sungyeon_park.jpeg" %}
-  {% include people_horizontal.liquid name="Deyuan Qu" affiliation="Toyota" url="https://scholar.google.com/citations?user=E1BvFbMAAAAJ&hl=en" img="assets/img/headshots/deyuan_qu.jpeg" %}
-  {% include people_horizontal.liquid name="Xu Cao" affiliation="University of Illinois Urbana-Champaign" url="https://www.irohxucao.com/" img="assets/img/headshots/xu_cao.jpg" %}
-  {% include people_horizontal.liquid name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io/" img="assets/img/headshots/wenqian_ye.jpeg" %}
-  {% include people_horizontal.liquid name="Chun-Hao Liu" affiliation="Amazon" url="https://scholar.google.com/citations?user=NsyhKxoAAAAJ&hl=en" img="assets/img/headshots/chun_hao_liu.jpeg" %}
-  {% include people_horizontal.liquid name="Qi Chen" affiliation="Toyota" url="https://scholar.google.com/citations?user=7_HxAcoAAAAJ&hl=en" img="assets/img/headshots/qi_chen.jpeg" %}
-  {% include people_horizontal.liquid name="Yezhou Yang" affiliation="Arizona State University" url="https://faculty.engineering.asu.edu/yezhouyang/" img="assets/img/headshots/yezhia_yang.jpeg" %}
-  {% include people_horizontal.liquid name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="assets/img/headshots/linkedin-company-logo-ziran.jpg" %}
+<div id="organizers">
+  <style>
+    #organizers img {
+      width: 110px !important;   /* pick same value for width/height */
+      height: 110px !important;
+      object-fit: cover;
+      border-radius: 0;          /* <-- square corners */
+      display: block;
+      margin: 0 auto;
+    }
+
+    #dragomir .card-title {
+      font-size: 1.8rem;  /* smaller than default h2 */
+    }
+  </style>
+  <br>
+  <div class="container">
+  <div class="row row-cols-2">
+    {% include people_horizontal.liquid name="Burhan Yaman" affiliation="Uber" url="https://byaman14.github.io/" img="assets/img/headshots/yaman.jpeg" %}
+    {% include people_horizontal.liquid name="Yunsheng Ma" affiliation="Purdue University" url="https://ysma.me/" img="assets/img/headshots/yunsheng.jpg" %}
+    {% include people_horizontal.liquid name="Xin Ye" affiliation="Bosch AI" url="https://scholar.google.com/citations?user=2A79H_UAAAAJ&hl=en" img="assets/img/headshots/xin_ye.jpeg" %}
+    {% include people_horizontal.liquid name="Can Cui" affiliation="Purdue University" url="https://scholar.google.com/citations?user=9rqTLMcAAAAJ&hl=en" img="assets/img/headshots/can_cui.jpeg" %}
+    {% include people_horizontal.liquid name="Mahmut Yurt" affiliation="Stanford University" url="https://scholar.google.com/citations?user=oAXHlRMAAAAJ&hl=en" img="assets/img/headshots/mahmut_yurt.jpeg" %}
+    {% include people_horizontal.liquid name="Selim Engin" affiliation="Sony" url="https://ksengin.github.io/" img="assets/img/headshots/selim.jpeg" %}
+    {% include people_horizontal.liquid name="SungYeon Park" affiliation="Purdue University" url="https://scholar.google.com/citations?user=SKXAwssAAAAJ&hl=ko" img="assets/img/headshots/sungyeon_park.jpeg" %}
+    {% include people_horizontal.liquid name="Deyuan Qu" affiliation="Toyota" url="https://scholar.google.com/citations?user=E1BvFbMAAAAJ&hl=en" img="assets/img/headshots/deyuan_qu.jpeg" %}
+    {% include people_horizontal.liquid name="Xu Cao" affiliation="University of Illinois Urbana-Champaign" url="https://www.irohxucao.com/" img="assets/img/headshots/xu_cao.jpg" %}
+    {% include people_horizontal.liquid name="Wenqian Ye" affiliation="University of Virginia" url="https://wenqian-ye.github.io/" img="assets/img/headshots/wenqian_ye.jpeg" %}
+    {% include people_horizontal.liquid name="Chun-Hao Liu" affiliation="Amazon" url="https://scholar.google.com/citations?user=NsyhKxoAAAAJ&hl=en" img="assets/img/headshots/chun_hao_liu.jpeg" %}
+    {% include people_horizontal.liquid name="Qi Chen" affiliation="Toyota" url="https://scholar.google.com/citations?user=7_HxAcoAAAAJ&hl=en" img="assets/img/headshots/qi_chen.jpeg" %}
+    {% include people_horizontal.liquid name="Yezhou Yang" affiliation="Arizona State University" url="https://faculty.engineering.asu.edu/yezhouyang/" img="assets/img/headshots/yezhia_yang.jpeg" %}
+    {% include people_horizontal.liquid name="Ziran Wang" affiliation="Purdue University" url="https://ziranw.github.io/" img="assets/img/headshots/linkedin-company-logo-ziran.jpg" %}
+  </div>
+  </div>
+  <br><br>
 </div>
-</div>
-<br><br>
 
 <!-- # Questions
 Contact us at
