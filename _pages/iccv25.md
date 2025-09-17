@@ -2,7 +2,7 @@
 layout: default
 title: 2nd WDFM-AD
 permalink: /iccv25/
-subtitle: Oct 2025, Honolulu, Hawaii
+subtitle: Oct 20, 2025, Honolulu, Hawaii
 nav: true
 nav_order: 1
 
