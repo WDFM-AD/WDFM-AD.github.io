@@ -53,7 +53,7 @@ nav_order: 2
 
 TBD.
 
-<!-- ### June 12, 2025 - Room 208 B
+### Oct 20, 2025 - Room 208 B
 
 <table>
   <thead>
@@ -70,18 +70,18 @@ TBD.
     </tr>
     <tr >
       <td class="time">08:30 - 09:05</td>
-      <td class="event">Keynote: Gianluca Corrado (Wayve)</td>
-      <td class="title">Foundation Models for Embodied AI</td>
+      <td class="event">Keynote: Min Cai (Uber)</td>
+      <td class="title">TBD</td>
     </tr>
     <tr >
       <td class="time">09:05 - 09:40</td>
-      <td class="event">Keynote: Liu Ren (Bosch Center for Artificial Intelligence)</td>
-      <td class="title">Addresing Real-World ADAS Challenges with Foundation and Diffusion Models</td>
+      <td class="event">Keynote: Kai Wang (Zoox)</td>
+      <td class="title">TBD</td>
     </tr>
     <tr >
       <td class="time">09:40 - 10:15</td>
-      <td class="event">Keynote: Pavlo Molchanov (NVIDIA Research)</td>
-      <td class="title">The Power of Distillation in Foundation Models</td>
+      <td class="event">Keynote: Jose Alvarez (NVIDIA)</td>
+      <td class="title">TBD</td>
     </tr>
     <tr >
       <td class="time">10:15 - 10:35</td>
@@ -89,18 +89,18 @@ TBD.
     </tr>
     <tr >
       <td class="time">10:35 - 11:10</td>
-      <td class="event">Keynote: Benjamin Sapp (Waymo)</td>
-      <td class="title">Scaling and Distillation for Motion Forecasting and Planning</td>
+      <td class="event">Keynote: Dragomir Anguelov (Waymo)</td>
+      <td class="title">TBD</td>
     </tr>
     <tr >
       <td class="time">11:10 - 11:45</td>
-      <td class="event">Keynote: Xianming Liu (XPeng)</td>
-      <td class="title">Scaling up Autonomous Driving via Large Foundation Models</td>
+      <td class="event">Keynote: Ashok Elluswamy (Tesla)</td>
+      <td class="title">TBD</td>
     </tr>
     <tr >
       <td class="time">11:45 - 12:20</td>
-      <td class="event">Keynote: Hongyang Li (The University of Hong Kong)</td>
-      <td class="title">Will Foundation Models Resolve Fully Autonomous Driving?</td>
+      <td class="event">Keynote: Jamie Shotton (Wayve)</td>
+      <td class="title">TBD</td>
     </tr>
     <tr>
       <td class="time">12:20 - 14:00</td>
@@ -112,7 +112,7 @@ TBD.
 
 <br>
 
-#### Poster Session Details:
-- **Location:** ExHall D  
+<!-- #### Poster Session Details:
+- **Location:** TBD  
 - **Poster Boards:** #110 – #122  
 - **Time:** 12:20 PM – 02:00 PM   -->
