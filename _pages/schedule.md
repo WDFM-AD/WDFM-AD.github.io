@@ -53,7 +53,7 @@ nav_order: 2
 
 TBD.
 
-### Oct 20, 2025 - Room 208 B
+### Oct 20, 2025 - Room TBD
 
 <table>
   <thead>
