@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/iccv25/";
           },
-        },{id: "nav-schedule",
-          title: "Schedule",
+        },{id: "nav-tentative-schedule",
+          title: "Tentative Schedule",
           description: "",
           section: "Navigation",
           handler: () => {
