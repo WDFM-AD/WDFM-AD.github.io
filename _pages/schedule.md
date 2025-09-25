@@ -101,7 +101,7 @@ Tentative Schedule
       <td class="title">TBD</td>
     </tr>
     <tr>
-      <td class="time">12:20 - 14:00</td>
+      <td class="time">TBD</td>
       <td class="event">Poster Session</td>
       <td class="title"></td>
     </tr>
