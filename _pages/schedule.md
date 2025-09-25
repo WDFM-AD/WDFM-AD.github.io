@@ -51,7 +51,7 @@ nav_order: 2
   }
 </style>
 Tentative Schedule
-### Oct 20, 2025 - Room TBD
+### Oct 20, 2025 - Room 316 C
 
 <table>
   <thead>
