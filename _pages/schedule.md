@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentative Schedule
+title: Schedule
 permalink: /schedule/
 nav: true
 nav_order: 2
@@ -50,7 +50,7 @@ nav_order: 2
     background-color: #fce8e6;
   }
 </style>
-
+Tentative Schedule
 ### Oct 20, 2025 - Room TBD
 
 <table>
