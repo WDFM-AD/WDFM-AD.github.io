@@ -68,7 +68,7 @@ Tentative Schedule
     </tr>
     <tr >
       <td class="time">08:30 - 09:05</td>
-      <td class="event">Keynote: Min Cai (Uber)</td>
+      <td class="event">Keynote: Jose Alvarez (NVIDIA)</td>
       <td class="title">TBD</td>
     </tr>
     <tr >
@@ -78,7 +78,7 @@ Tentative Schedule
     </tr>
     <tr >
       <td class="time">09:40 - 10:15</td>
-      <td class="event">Keynote: Jose Alvarez (NVIDIA)</td>
+      <td class="event">Keynote: Min Cai (Uber)</td>
       <td class="title">TBD</td>
     </tr>
     <tr >
