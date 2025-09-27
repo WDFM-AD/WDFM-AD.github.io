@@ -68,7 +68,7 @@ Tentative Schedule
     </tr>
     <tr >
       <td class="time">08:30 - 09:05</td>
-      <td class="event">Keynote: Jose Alvarez (NVIDIA)</td>
+      <td class="event">Keynote: Jose Alvarez (Nvidia)</td>
       <td class="title">TBD</td>
     </tr>
     <tr >
