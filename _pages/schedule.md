@@ -74,12 +74,12 @@ Tentative Schedule
     <tr >
       <td class="time">09:05 - 09:40</td>
       <td class="event">Keynote: Kai Wang (Zoox)</td>
-      <td class="title">TBD</td>
+      <td class="title">Machine Learning for Validation and Autonomous Driving</td>
     </tr>
     <tr >
       <td class="time">09:40 - 10:15</td>
       <td class="event">Keynote: Min Cai (Uber)</td>
-      <td class="title">TBD</td>
+      <td class="title">Accelerating Autonomous Driving with Uber-Scale Data Flywheel</td>
     </tr>
     <tr >
       <td class="time">10:15 - 10:35</td>
@@ -87,8 +87,8 @@ Tentative Schedule
     </tr>
     <tr >
       <td class="time">10:35 - 11:10</td>
-      <td class="event">Keynote: Dragomir Anguelov (Waymo)</td>
-      <td class="title">TBD</td>
+      <td class="event">Keynote: Kratarth Goel (Waymo)</td>
+      <td class="title">Scaling and Distillation for Motion Forecasting and Planning</td>
     </tr>
     <tr >
       <td class="time">11:10 - 11:45</td>
@@ -98,7 +98,7 @@ Tentative Schedule
     <tr >
       <td class="time">11:45 - 12:20</td>
       <td class="event">Keynote: Jamie Shotton (Wayve)</td>
-      <td class="title">TBD</td>
+      <td class="title">Frontiers in Embodied AI</td>
     </tr>
     <tr>
       <td class="time">TBD</td>
