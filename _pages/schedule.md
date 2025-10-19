@@ -69,7 +69,7 @@ Tentative Schedule
     <tr >
       <td class="time">08:30 - 09:05</td>
       <td class="event">Keynote: Jose Alvarez (Nvidia)</td>
-      <td class="title">TBD</td>
+      <td class="title">Scalable Autonomous Driving with Reasoning in the Loop</td>
     </tr>
     <tr >
       <td class="time">09:05 - 09:40</td>
@@ -93,7 +93,7 @@ Tentative Schedule
     <tr >
       <td class="time">11:10 - 11:45</td>
       <td class="event">Keynote: Ashok Elluswamy (Tesla)</td>
-      <td class="title">TBD</td>
+      <td class="title">Building Foundational Models for Robotics at Tesla</td>
     </tr>
     <tr >
       <td class="time">11:45 - 12:20</td>
